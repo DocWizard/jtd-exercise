@@ -17,7 +17,7 @@ In an ideal world, this flow of knowledge is smooth, friendly and uninterrupted.
 Why do SMEs go MIA?
 -------------------
 
-![Stylized image of a subject matter expert.](../Images/why.png)
+![Stylized image of a subject matter expert.](../images/why.png)
 
 Subject Matter Experts might become unresponsive due to various reasons - both professional and personal. To become an expert SME tamer, you must at least try to understand their perspective:
 
@@ -44,7 +44,7 @@ When ready, reach out to the expert through a preferred channel—email, Slack, 
 
 Be polite and efficient in your communication. **Clearly outline the purpose of your interview and the urgency of their input. Communicate specific information needed, project scope, and timelines.** Acknowledge their busy schedule; offer flexible communication options and respect their time constraints. Highlight the critical role their expertise plays in meeting deadlines.
 
-![Stylized image of an interview in progress](../Images/interview.png)
+![Stylized image of an interview in progress](../images/interview.png)
 
 While awaiting the SME's response, explore existing documentation or consult knowledgeable colleagues or secondary sources for preliminary information. Who knows - you might find answers to many questions on your own.
 
