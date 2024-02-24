@@ -1,6 +1,7 @@
 ---
 title: Glasgow in translation
 layout: default
+nav_order: 2
 ---
 
 # Preface

@@ -1,6 +1,7 @@
 ---
 title: Stuck in Limbo - How to Handle Radio-Silent SMEs in Technical Writing
 layout: default
+nav_order: 1
 ---
 
 Stuck in Limbo: How to Handle Radio-Silent SMEs in Technical Writing
