@@ -1,3 +1,8 @@
+---
+title: Glasgow in translation
+layout: default
+---
+
 # Preface
 
 Many attempts have been made by translators to preserve the peculiar relationship that the Scots language has with Standard English. The translation strategies most often employed, however, fail to preserve the sense of ‘Scottishness’ or else border on being ridiculous. It may be because of that particular obstacle that translations of Scottish works are not very often successful in Poland, even if their author is otherwise critically acclaimed. This is often compounded by the fact that many Polish readers, as well as translators, conflate Scottish and English writers under one, most often ‘British’ or English label. These factors lead to a loss of Scottish identity exhibited by the text — a loss many Scottish writers actively fight against.
