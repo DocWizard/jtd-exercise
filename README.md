@@ -1,3 +1,3 @@
 # README
 
-This is my practise run with just-the-docs
+This is my practice run with just-the-docs
