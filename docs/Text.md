@@ -11,6 +11,9 @@ Such is the case with James Kelman and Alasdair Gray, two Glasgow-born writers w
 
 The two discussed works are Alasdair Gray's *Poor Things* (1992), translated into Polish by Ewa Horodyska and published in 1997 by Państwowy Instytut Wydawniczy as *Biedne Istoty*, and James Kelman's 1994 novel *How Late it Was, How Late*, translated by Jolanta Kozak and published in 2011, seventeen years after the Man Booker Prize-winning original, under the title *Jak późno było, jak późno*, also by PIW. The two highly successful Scottish novels, along with their (much less successful) Polish translations, serve as an illustration of the many issues that Scottish–Polish translators are faced with, and their ways of coping with these difficulties. 
 
+![Alasdair Gray's Poor Things cover](../images/GrayPoorThings.jpg)
+![James Kelman's How Late it Was, How Late cover](../images/JamesKelmanHowLate.jpg)
+
 The overall aim of this thesis is to outline what is lost in the process of translation and to show examples of what the Polish translators of the two Glaswegian novels did in order to preserve the sense of 'Scottishness', as well as Scottish identity as such, in the target text. 
 
 Chapter 1 is devoted to an overview of the national identity of the Scottish people, the local identity of Glaswegians, as well as the characteristic features of the Glasgow patter. The identity of the Scots is in many ways based on a romanticised vision of the past. It is important for a translator of Scottish works to become acquainted with the events which constitute this past, along with many other elements of Scottish national identity. Proper care should be taken in order not to accidentally omit these elements in the translated text.
